@@ -1,24 +1,20 @@
-# notes
+# Notes
 
-## Project setup
+## Instructions:
+
+### Installs dependencies
 ```
-npm install
+$ npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+$ npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+$ npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+from [App Ideas](https://github.com/florinpop17/app-ideas) by Florin Pop.
