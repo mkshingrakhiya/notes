@@ -1,6 +1,6 @@
 # Notes
 
-## Instructions:
+See [Sandbox](https://codesandbox.io/s/notes-tyxbp)
 
 ### Installs dependencies
 ```
